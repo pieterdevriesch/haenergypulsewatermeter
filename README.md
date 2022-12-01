@@ -8,6 +8,7 @@ You can install it with a 3D printed bracket, to look nice:
 ![3D Printed Bracket](/images/bracket.png?raw=true "3D Printed Bracket")
 
 Or just fish an L bracket out of the parts bin, drill a 16mm hole in it and zip-tie it to the water meter like I did:
+
 ![L Bracket](/images/bracketbasic.png?raw=true "L Bracket")
 
 and just leave the Wemos dangling from the usb cable. Not recommended if you enjoy a neat utility closet.
