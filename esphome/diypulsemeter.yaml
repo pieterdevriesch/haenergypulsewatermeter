@@ -1,6 +1,3 @@
-# Water Meter
-#
-# The blue LED tells the device is powered on (built-in on the Wemos D1 mini).
 
 #Name of device
 substitutions:
